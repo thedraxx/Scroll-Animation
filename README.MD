@@ -5,12 +5,12 @@
   </a>
 </p>
 
-> a Blurry Loading</br>
+> a Scroll Animation</br>
 
 ## 🦁 Technology I Use: 
 
 ```
-👽 Javascript: ES12
+👽 Javascript
 👽 Sass
 👽 HTML5
 
@@ -31,7 +31,7 @@ E-mail: cerrano.francisco22@gmail.com
 * Github: [thedraxx](https://github.com/thedraxx)
 * LinkedIn: [Francisco Isaac Cerrano](https://www.linkedin.com/in/cerranofrancisco/)
 
-## ⚙️ Day 5 of 50 (Blurry Loading)
+## ⚙️ Day 6 of 50 (Scroll Animation)
   
 ## 📝 Licence
 
